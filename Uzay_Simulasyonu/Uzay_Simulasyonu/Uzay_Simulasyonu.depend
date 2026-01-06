@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1767693434 source:c:\users\alios\onedrive\masaüstü\uzay_simulasyonu\uzay_simulasyonu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
